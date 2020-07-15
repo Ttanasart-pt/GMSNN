@@ -11,5 +11,7 @@ A part of my freshman Computer Engineer work. This framework is stripped from a 
 - Support multiple game instances run in parallel.
 - Simple network visualization.
 
+### Complete project
 
+- [Oong](https://tanasartpt.myportfolio.com/neural-network)
 
