@@ -2,7 +2,7 @@
 
 ## [Under development] Neural network framework for Game Maker Studio 2
 
-A part of my freshman Computer Engineer work. This framework is stripped from a complete project so some parts might not work correctly.
+A part of my freshman Computer Engineer work. This framework is stripped from a complete project so some parts may not work correctly.
 
 ### Features
 
